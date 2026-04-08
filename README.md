@@ -142,7 +142,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-Developed by: Nirmit
+Developed by: Parth Solanki
 
 ---
 
